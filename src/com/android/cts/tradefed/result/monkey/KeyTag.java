@@ -6,7 +6,7 @@ import org.kxml2.io.KXmlSerializer;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
-import sun.awt.SunHints.Value;
+//import sun.awt.SunHints.Value;
 
 import com.android.cts.tradefed.result.CtsXmlResultReporter;
 
